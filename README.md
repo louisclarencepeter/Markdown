@@ -21,3 +21,9 @@ When it comes to Projects, Markdown is used to create README files which have al
 * JAVA Script
 
 In our Fullstack Developer Course, we will be learning these 3 programming languages, so most of our Projects will be built with these technologies.
+
+## Security Policy
+
+[Security Policy](C:\Users\louis\Documents\Projects\Markdown\SECURITY.md)
+ 
+   > usually it is a link to the Security File which is in the Project.
