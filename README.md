@@ -24,6 +24,6 @@ In our Fullstack Developer Course, we will be learning these 3 programming langu
 
 ## Security Policy
 
-[Security Policy](C:\Users\louis\Documents\Projects\Markdown\SECURITY.md)
+[Security Policy](https://github.com/louisclarencepeter/Markdown/blob/main/SECURITY.md)
  
    > usually it is a link to the Security File which is in the Project.
